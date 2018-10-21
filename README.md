@@ -1,3 +1,7 @@
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#CloudFrunt) 
+[![GitHub stars](https://img.shields.io/github/stars/MindPointGroup/cloudfrunt.svg)](https://github.com/MindPointGroup/cloudfrunt/stargazers)
+[![GitHub license](https://img.shields.io/github/license/MindPointGroup/cloudfrunt.svg)](https://github.com/MindPointGroup/cloudfrunt/blob/master/LICENSE)
+
 # CloudFrunt
 
 CloudFrunt is a tool for identifying misconfigured CloudFront domains.
